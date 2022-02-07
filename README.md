@@ -49,7 +49,7 @@ Random facts :
 
 
 <div align="center"> 
-  <a url="https://troloko8.github.io/portfolio/#/">
+  <a href="https://troloko8.github.io/portfolio/#/">
       <img src="https://media.giphy.com/media/3ohzdZ44Q62CJ2ekla/giphy.gif" alr="Portfolio..." width="70%" />
   <a/>
 <div/>
